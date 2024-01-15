@@ -1,0 +1,47 @@
+Item ,Item Form ,Category,Shelf Life,Glass,Paper,Palstic,Aluminium,Bio,Weekly Usage 
+Milk,Liquid,Food,Short,0,0,33,0,0,4
+Oil Cooking ,Liquid,Food,Medium,313,0,0,3,0,1.2
+Tea Bgs ,Solid,Food ,Long,0,10,1,0,350,0.25
+Bread ,Solid,Food,Short,0,0,9,0,0,3
+Eggs,Solid,Food,Short,0,29,0,0,42,2.5
+Cooking Butter,Solid,Food,Medium,0,0,3,0,0,0.5
+Cooking Cream ,Liquid,Food,Medium,0,0,30,0,0,1
+Pasta ,Solid,Food,Long,0,0,10,0,0,1
+Parmesan Chheese ,Solid,Food ,Short,0,0,8,0,0,1
+Cheese ,Solid,Food,Short,0,0,17,0,0,0.75
+Jam,Solid,Food,Long,215,0,0,11,0,0.5
+Potato,Solid,Food,Medium,0,0,7,0,400,1
+Onion ,Solid,Food,Medium,0,0,2,0,100,1
+Soda Bottled ,Liquid,Food,Long,239,0,0,1,0,1
+Soda Can ,Liquid,Food,Long,0,0,0,14,0,1.5
+Salt ,Solid,Food,Long,0,7,0,0,0,0.5
+Suger ,Solid,Food,Long,0,7,0,0,0,0.5
+Tomato Paste,Liquid,Food,Long,300,0,0,11,0,1
+Chicken Meat ,Solid,Food,Short,0,0,20,0,0,2.5
+Yougurt ,Solid,Food,Medium,0,0,51,0,0,2
+Biscuits ,Solid,Food,Medium,0,0,3,0,0,0.5
+Toilet Paper ,Solid,Cleanring Product ,Long,0,40,0,0,0,0.5
+Shampo ,Liquid,Hair care Products ,Long,0,0,46,0,0,0.25
+Conditioner ,Liquid,Skin Care  Product ,Long,0,0,46,0,0,0.25
+Shower Gel ,Liquid,Skin Care  Product ,Long,0,0,65,0,0,0.25
+Hand Soep ,Liquid,Cleaning Product ,Long,0,0,45,0,0,0.25
+Tooth paste ,Solid,Cleaning Product ,Long,9,8,17,0,0,0.25
+Notella ,Solid,Food ,Long,174,0,4,1,0,1
+Orange ,Solid,Food ,Short,0,0,0,0,75,4
+Mandrain ,Solid,Food ,Short,0,0,0,0,360,1
+Flour ,Solid,Food ,Long,0,8,0,0,0,0.25
+Garlic Butter ,Solid,Food ,Medium,0,0,9,0,0,0.3
+Mozerella Cheese ,Solid,Food ,Medium,0,0,7,0,0,0.3
+Gum ,Solid,Food ,Long,0,0,20,0,0,0.25
+Cream ,Liquid,Food ,Medium,0,0,17,0,0,0.5
+Strrowberry Yougurt ,Liquid,Food ,Medium,0,0,8,0,0,15
+Green Hurbs for Salad ,Solid,Food ,Short,0,0,0,0,12,1
+Avocado ,Solid,Food ,Short,0,0,0,0,76,1
+Bleach ,Liquid,Cleaning Products ,Long,0,0,53,0,0,0.04
+Apple ,Solid,Food,Short,0,0,17,0,20,1
+Red beans ,Solid,Food ,Long,0,0,46,0,0,1
+Cheerry Tomato,Solid,Food ,Short,0,13,8,0,3,2
+Plastic Freezer ,Solid,Packing Product ,Long,0,24,83,0,0,0.12
+Pear ,Solid,Food ,Short,0,0,21,0,20,1
+Tomato ,Solid,Food ,Short,0,0,21,0,0,2
+Garlic ,Solid,Food,Medium,0,0,2,0,40,0.5
