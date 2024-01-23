@@ -1,4 +1,4 @@
-Item ,Item Form ,Category,Shelf Life,Glass,Paper,Palstic,Aluminium,Bio,Weekly Usage 
+Item ,Item Form ,Category,Shelf Life,Glass,Paper,Plastic,Aluminium,Bio,Weekly Usage 
 Milk,Liquid,Food,Short,0,0,33,0,0,4
 Oil Cooking ,Liquid,Food,Medium,313,0,0,3,0,1.2
 Tea Bgs ,Solid,Food ,Long,0,10,1,0,350,0.25
